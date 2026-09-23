@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b87f5f41c945f8a439615ee3",
+  "owner": "geubjhv",
+  "repo": "page-ceb4db5f394dd27cfd9b4709",
+  "title": "ZERO",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ceb4db5f394dd27cfd9b4709",
+      "a": "ZERO",
+      "b": "稳定全球clash加速器",
+      "entity": "ZERO",
+      "brand": "ZERO",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9359ff45c852ea2f87e7d7db765bcca33ec0e9cd9e7d28e7439490cb4a4af8d0",
+      "content": {
+        "primary_entity": "ZERO",
+        "keyword1": "ZERO",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，Windows、macOS、Android、iOS 与路由器端分别有适配版本。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量选定套餐，再按对应客户端文档配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐即可配置",
+          "AI_DESCRIPTION": "，ZERO 提供基础版、旗舰版、团队版三档订阅，分别覆盖 3 台、5 台和 20 台设备同时在线。月付从 ¥15 起，按年付可享 ¥150/年 的优惠；旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度对比套餐，更容易匹配实际使用场景。",
+          "AI_FEATURES_TITLE": "套餐要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按用量选档位更清晰。",
+          "AI_FEATURE_TEXT_2": "同时在线设备从 3 台、5 台到 20 台，覆盖个人、家庭与团队办公。",
+          "AI_FEATURE_TITLE_1": "月流量分档",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "线路与专线",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅生效的配置流程。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "ZERO 是面向海外网络访问的 Clash 加速服务，提供基础版、旗舰版与团队版三档订阅，覆盖个人设备到团队办公的不同需求，月付与年付均可选择。",
+          "AI_HERO_SUBTITLE": "多设备 Clash 加速订阅",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15 起",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付最低 ¥150/年",
+          "AI_PLANS_INTRO": "基础版适合 3 台以内设备与轻量使用，旗舰版适合流媒体与游戏需求，团队版面向多设备高带宽场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量，从基础版、旗舰版、团队版中选择合适的档位。",
+          "AI_STEP_TEXT_2": "确认操作系统版本与 Clash 客户端要求，检查设备是否满足订阅导入条件。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅地址，按客户端文档完成节点组与规则配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "ZERO 多设备加速",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。超出后可升级套餐，或在设备上退出不使用的客户端。",
+          "AI_FAQ_ANSWER_2": "可以。三档套餐均提供年度方案，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于免费使用两个月。",
+          "AI_FAQ_ANSWER_3": "ZERO 提供 Windows、macOS、Android、iOS 以及路由器插件等多种客户端，具体以设备系统版本为准，按客户端文档完成订阅导入。",
+          "AI_FAQ_ANSWER_4": "流量按月重置，超出当月额度后速度会有所调整。若有持续性大流量需求，建议升级到团队版的 1000GB 方案。",
+          "AI_FAQ_ANSWER_5": "基础版满足日常浏览与基础流媒体；旗舰版增加 IPLC 专线游戏加速与全节点解锁，适合游戏和 4K 视频；团队版提供 VIP 高带宽节点和专属客户经理。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "ZERO 套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "ZERO 支持按年付费吗？",
+          "AI_FAQ_QUESTION_3": "ZERO 提供哪些客户端？",
+          "AI_FAQ_QUESTION_4": "套餐流量用完了怎么办？",
+          "AI_FAQ_QUESTION_5": "基础版和旗舰版区别在哪里？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "eswhvfp.cn",
+    "host": "eswhvfp.cn"
+  },
+  "file_hashes": {
+    "index.html": "efa81e03e13875e667f6aa9e3964b9fbeed159d679a4c93526cc50abe648e9a2",
+    "sitemap.xml": "83c0b1a893994de6457b3e9429c671b0782e270d8ffa7e5696d7e5f08a7db2fb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4b6c58d10081928f4a2cf05936e9ad6d1bd6859344fe83d541babfb6ac6d5134",
+    "robots.txt": "9d61a912b2d4f1575ffabd00af2ca16e2c403b9d68249b443bc48616468e6ba8",
+    "ff14039540ab974ae6228bcfd53b3315.txt": "23d4ef8e6061cc305a434cf00677d8649f4e1512d3eec5a215e3ce4131c992b3"
+  },
+  "revision": "bdee367a53b5e36c2fe85b114cc14365f4ab0d1ab3384e4a63bc3263310fe851"
+}
